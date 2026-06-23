@@ -1,0 +1,18 @@
+One Important Question
+
+Before submitting this resume:
+
+Have you actually completed the IDS project?
+
+Because interviewers may ask:
+
+What is NSL-KDD?
+What attacks exist in the dataset?
+Why use Precision and Recall instead of Accuracy?
+Difference between IDS and Firewall?
+Which algorithm performed best?
+Why choose Decision Tree/Random Forest?
+
+If you can answer those confidently, keep the IDS project.
+
+If the project is only partially completed, keep ChurnXpert until the IDS implementation is genuinely interview-ready.
